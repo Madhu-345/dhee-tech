@@ -1,0 +1,152 @@
+body{
+    border: 1px solid black;
+    background-image: url("https://media.istockphoto.com/id/1225495890/photo/abstract-blue-backgrounds.webp?a=1&b=1&s=612x612&w=0&k=20&c=OeoUPFlDUuz7RYghu0dKxUjgQCOsnXd9Rhx_3CAuoFg=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* color: white; */
+    h1{
+        text-align: center;
+        font-size: 50px;
+        text-transform: capitalize;
+    }
+    .para{
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .container{
+        /* border: 1px solid black; */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+        text-transform: capitalize;
+         h2{
+            text-transform: uppercase;
+        }
+
+        a{
+            border: 1px solid black;
+             padding: 10px 20px;
+             text-decoration: none;
+             border-radius: 10px;
+             background-color: brown;
+             color: white;
+             text-transform: capitalize;
+        }
+        .card1{
+            border: 1px solid black;
+            height: 50vh;
+            width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+            
+        }
+    }
+    .container1{
+        /* border: 1px solid black; */
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+        align-items: center;
+        justify-content: center;
+         a{
+            border: 1px solid black;
+            padding: 10px 20px;
+             text-decoration: none;
+              border-radius: 10px;
+             background-color: brown;
+             color: white;
+             text-transform: capitalize;
+        }
+        h2{
+            text-transform: uppercase;
+        }
+       
+         .card2{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+         .card3{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+         .card4{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+         .card5{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+         .card6{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+         .card7{
+            border: 1px solid black;
+            height: 50vh;
+             width: 350px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            border-radius: 20px;
+
+        }
+        img{
+            height: 150px;
+            width: 150px;
+            border-radius: 100%;
+        }
+    }
+    h3{
+        text-align: center;
+        font-size: 30px;
+    }
+}
