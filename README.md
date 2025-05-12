@@ -1,1 +1,1 @@
-https://github.com/Madhu-345/dhee-tech.git
+ https://madhu-345.github.io/dhee-tech/
