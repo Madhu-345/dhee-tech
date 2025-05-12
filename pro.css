@@ -112,7 +112,7 @@ body{
         }
          .card4{
             border: 1px solid black;
-            height: 50vh;
+            height: 70vh;
              width: 350px;
             display: flex;
             flex-direction: column;
@@ -124,7 +124,7 @@ body{
         }
          .card5{
             border: 1px solid black;
-            height: 50vh;
+            height: 70vh;
              width: 350px;
             display: flex;
             flex-direction: column;
@@ -136,7 +136,7 @@ body{
         }
          .card6{
             border: 1px solid black;
-            height: 50vh;
+            height: 70vh;
              width: 350px;
             display: flex;
             flex-direction: column;
@@ -148,12 +148,12 @@ body{
         }
          .card7{
             border: 1px solid black;
-            height: 50vh;
+            height: 70vh;
              width: 350px;
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 10px;
+            gap: 30px;
             padding: 10px;
             border-radius: 20px;
 
