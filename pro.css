@@ -25,7 +25,7 @@ body{
     .span{
         color: blue;
         font-size: 20px;
-        font-weight: bold;
+        /* font-weight: bold; */
     }
     .container{
         /* border: 1px solid black; */
@@ -57,6 +57,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+            background-color: lightgreen;
             
         }
     }
@@ -109,6 +110,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
          .card3{
@@ -121,6 +124,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
          .card4{
@@ -133,6 +138,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
          .card5{
@@ -145,6 +152,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
          .card6{
@@ -157,6 +166,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
          .card7{
@@ -169,6 +180,8 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
+                        background-color: lightgreen;
+
 
         }
         img{
