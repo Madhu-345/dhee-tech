@@ -1,9 +1,7 @@
 body{
     border: 1px solid black;
-    background-image: url("https://storage.pixteller.com/designs/designs-images/2019-03-27/04/business-background-backgrounds-business-1-5c9b8f720ae83.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* color: white; */
+    background-color:blanchedalmond;
+  
     h1{
         text-align: center;
         font-size: 50px;
@@ -16,8 +14,10 @@ body{
     }
     .para{
         text-align: center;
-        font-size: 20px;
+        font-size: 25px;
         font-family: 'Courier New', Courier, monospace;
+        color: green;
+        font-weight: bold;
     }
     p{
         text-align: justify;
@@ -57,20 +57,17 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-            background-color: lightgreen;
+             background-color:rgb(229, 151, 151);
+
+            img{
+                height: 150px;
+            width: 150px;
+            border-radius: 100%;
+            }
             
         }
     }
-    @keyframes appear{
-        from{
-            opacity: 0;
-            scale:0.5;
-        }
-        to{
-            opacity: 1;
-            scale:1;
-        }
-    }
+
 
     .container1{
         /* border: 1px solid black; */
@@ -79,14 +76,6 @@ body{
         gap: 30px;
         align-items: center;
         justify-content: center;
-
-
-        animation: appear linear;
-        animation-timeline: view();
-        animation-range: entry 0 cover 40%;
-
-
-
          a{
             border: 1px solid black;
             padding: 10px 20px;
@@ -110,8 +99,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
          .card3{
@@ -124,8 +112,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
          .card4{
@@ -138,8 +125,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
          .card5{
@@ -152,8 +138,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
          .card6{
@@ -166,8 +151,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
          .card7{
@@ -180,8 +164,7 @@ body{
             gap: 30px;
             padding: 10px;
             border-radius: 20px;
-                        background-color: lightgreen;
-
+ background-color:rgb(229, 151, 151);
 
         }
         img{
@@ -192,8 +175,17 @@ body{
     }
     h3{
         text-align: center;
-        font-size: 50px;
-        color: aliceblue;
+        font-size: 100px;
+        color: green;
+        text-shadow: 10px 10px 10px gray;
+        font-weight: bold;
+        font-family: monospace;
+        /* background-color: aliceblue;
+        border-radius: 40px; */
+
+        
+        
+        
 
     }
 }
