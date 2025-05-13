@@ -9,8 +9,13 @@ body{
         font-size: 50px;
         text-transform: capitalize;
     }
+    span{
+        color: red;
+        font-size: 20px;
+        font-weight: bold;
+    }
     .para{
-        text-align: center;
+        text-align: justify;
         font-size: 20px;
         font-family: 'Courier New', Courier, monospace;
     }
@@ -36,7 +41,7 @@ body{
         }
         .card1{
             border: 1px solid black;
-            height: 50vh;
+            height: 70vh;
             width: 350px;
             display: flex;
             flex-direction: column;
