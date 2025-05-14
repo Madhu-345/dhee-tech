@@ -39,13 +39,14 @@ body{
         }
 
         a{
-            border: 1px solid black;
-             padding: 10px 20px;
+            /* border: 1px solid black; */
+             /* padding: 10px 20px; */
              text-decoration: none;
-             border-radius: 10px;
-             background-color: brown;
-             color: white;
+             /* border-radius: 10px; */
+             /* background-color: brown; */
+             color: rgb(8, 5, 5);
              text-transform: capitalize;
+             font-weight: bold;
         }
         .card1{
             border: 1px solid black;
@@ -77,13 +78,14 @@ body{
         align-items: center;
         justify-content: center;
          a{
-            border: 1px solid black;
-            padding: 10px 20px;
+            /* border: 1px solid black; */
+            /* padding: 10px 20px; */
              text-decoration: none;
-              border-radius: 10px;
-             background-color: brown;
-             color: white;
+              /* border-radius: 10px; */
+             /* background-color: brown; */
+             color: rgb(9, 7, 7);
              text-transform: capitalize;
+             font-weight: bold;
         }
         h2{
             text-transform: uppercase;
